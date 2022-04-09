@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS `customerdetails` (
 DELETE FROM `customerdetails`;
 /*!40000 ALTER TABLE `customerdetails` DISABLE KEYS */;
 INSERT INTO `customerdetails` (`name`, `dob`, `age`, `gender`, `address`, `occupation`, `acctype`, `contactnumber`, `accountnumber`, `amount`, `password`, `cpassword`) VALUES
-	('kaleem', '11/12/1983', '36', 'male', 'bangalore', 'be', 'saving', '1234567890', '2000', '8000.0', 'mcecse', 'mcecse');
+	('Aseem', '11/12/1983', '36', 'male', 'India', 'be', 'saving', '1234567890', '2000', '8000.0', 'mcecse', 'mcecse');
 /*!40000 ALTER TABLE `customerdetails` ENABLE KEYS */;
 
 -- Dumping structure for table injection.details
